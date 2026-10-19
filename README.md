@@ -109,6 +109,33 @@ Each PivotTable summarises one question and feeds one dashboard chart.
 | Sales by Product Category | Product_Category | Revenue / Quantity | Which categories lead? |
 | Sales by Product Type | Product_Type | Revenue / Quantity | Which product types lead? |
 
+TOTAL REVENUE BY MONTHS
+<img width="527" height="338" alt="image" src="https://github.com/user-attachments/assets/5bda719b-43d3-41a9-80ab-f2c9a24f9c3d" /> 
+
+TOTAL REVENUE BY WEEKDAY
+
+<img width="561" height="337" alt="image" src="https://github.com/user-attachments/assets/858fc59a-828c-4c24-a1e7-8ed3cbbdab25" />
+
+REVENUE BY PRODUCT CATEGORY
+
+<img width="626" height="342" alt="image" src="https://github.com/user-attachments/assets/76cc16fc-6db2-43e9-a503-2f2b6830b7e6" />
+
+
+WEEKDAY WITH TRANSACTIONS
+
+<img width="537" height="372" alt="image" src="https://github.com/user-attachments/assets/46cb74fd-a374-444c-ace8-dcbc37e5b186" />
+
+
+REVENUE BY PRODUCT_CATEGORY
+<img width="563" height="369" alt="image" src="https://github.com/user-attachments/assets/511f92b1-8a63-42ca-90b6-dac1209e6956" />
+
+HOURS WITH TRANSACTIONS
+
+<img width="619" height="370" alt="image" src="https://github.com/user-attachments/assets/482d8256-a550-4745-83bc-eae7c5d2bf91" />
+
+
+
+
 
 
 ## 9. DASHBOARD DEVELOPMENT
