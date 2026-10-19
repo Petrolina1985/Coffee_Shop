@@ -1,3 +1,6 @@
+!
+
+
 # Coffee_Shop
 An Excel base sales performance analysis for insight and maximation of profits.
 ### An Excel-based sales analysis and dashboard project built on 149,116 transactions from a three-location coffee shop business in New York City (January to June 2023). The project covers data preparation, PivotTable analysis, dashboard design and business recommendations.
@@ -240,6 +243,10 @@ The analysis shows a coffee business that is growing fast, driven by coffee and 
 - Dashboard design and data visualisation
 - KPI definition and business insight generation
 - Technical documentation and business recommendations
+
+
+
+## PREPARED BY EKENE PETROLINA ALUMONA
 
 
 
